@@ -1,0 +1,3 @@
+# nix-bucklescript
+
+deprecated
